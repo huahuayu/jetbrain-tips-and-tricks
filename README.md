@@ -1,2 +1,2 @@
-# jetbrain-tips-and-tricks
-jetbrain tips and tricks, jetbrain系列ide使用技巧
+# jetbrains-tips-and-tricks
+jetbrains tips and tricks, jetbrains系列ide使用技巧
